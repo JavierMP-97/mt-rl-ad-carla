@@ -1,0 +1,37 @@
+!!python/object/apply:collections.OrderedDict
+- - - batch_size
+    - 64
+  - - buffer_size
+    - 100000
+  - - ent_coef
+    - auto_0.1
+  - - gamma
+    - 0.99
+  - - gradient_steps
+    - 1
+  - - learning_rate
+    - linear_0.0003
+  - - learning_starts
+    - 1200
+  - - n_timesteps
+    - 100000
+  - - policy
+    - CustomSACPolicy
+  - - train_freq
+    - 3000
+  - - vae_path
+    - green-2-big-50.pkl
+  - - z_size
+    - 128
+  - - MIN_THROTTLE
+    - 0.4
+  - - MAX_THROTTLE
+    - 0.6
+  - - FRAME_SKIP
+    - 1
+  - - MAX_CTE_ERROR
+    - 2.0
+  - - N_COMMAND_HISTORY
+    - 30
+  - - MAX_STEERING_DIFF
+    - 1
