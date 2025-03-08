@@ -120,7 +120,7 @@ This project demonstrated that using Semantic Segmentation as the target for a V
 
 This project was a significant step forward in my journey with Machine Learning for autonomous driving. Compared to my Bachelor’s thesis, this work represents a more structured, methodical, and technically advanced approach to solving complex reinforcement learning challenges and research tasks.
 
-My work in autonomous driving didn't stop here. I kept helping other students with their own theses and projects. For this purpose I've developed a small toolkit to quickstart your autonomous driving projects with carla **[CARLA_RL](https://github.com/JavierMP-97/carla_rl)**.
+My work in autonomous driving didn't stop here. I kept helping other students with their own theses and projects. For this purpose I've developed a small toolkit to quickstart your autonomous driving projects with **[CARLA_RL](https://github.com/JavierMP-97/carla_rl)**.
 
 ## Publications  
 
