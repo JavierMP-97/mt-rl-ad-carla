@@ -128,6 +128,6 @@ My work in autonomous driving didn't stop here. I kept helping other students wi
 
 **Bachelor’s Thesis**: [Deep Reinforcement Learning for Autonomous Driving](https://hdl.handle.net/10016/30350)
 
-**[Bachelor’s Thesis GitHub](https://github.com/JavierMP-97/bt-rl-ad-robot/)**. My first attempt at teaching a car to drive using Deep Reinforcement Learning (DRL)—featuring Soft Actor-Critic (SAC), an autoencoder for feature extraction, and enough spaghetti code to make an Italian grandmother weep
+**[Bachelor’s Thesis GitHub](https://github.com/j-moralejo-pinas/bt-rl-ad-robot/)**. My first attempt at teaching a car to drive using Deep Reinforcement Learning (DRL)—featuring Soft Actor-Critic (SAC), an autoencoder for feature extraction, and enough spaghetti code to make an Italian grandmother weep
 
-**[CARLA_RL](https://github.com/JavierMP-97/carla_rl)** This is a much more refined version, designed to help students quickly start their autonomous driving projects. It provides a CARLA environment with data collection, rewards, feature extraction, and a complete pipeline to train a baseline agent.
+**[CARLA_RL](https://github.com/j-moralejo-pinas/carla_rl)** This is a much more refined version, designed to help students quickly start their autonomous driving projects. It provides a CARLA environment with data collection, rewards, feature extraction, and a complete pipeline to train a baseline agent.
